@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_41" data-name="Group 41" transform="translate(-253 -18)">
+    <g id="Group_7" data-name="Group 7" transform="translate(-62)">
+      <g id="Group_5" data-name="Group 5" transform="translate(55 -1)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(260 19)" fill="rgba(31,31,31,0.18)"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-plus" data-name="Icon awesome-plus" d="M12.622,7.59H8.253V3.221a.971.971,0,0,0-.971-.971H6.311a.971.971,0,0,0-.971.971V7.59H.971A.971.971,0,0,0,0,8.561v.971a.971.971,0,0,0,.971.971H5.34v4.369a.971.971,0,0,0,.971.971h.971a.971.971,0,0,0,.971-.971V10.5h4.369a.971.971,0,0,0,.971-.971V8.561A.971.971,0,0,0,12.622,7.59Z" transform="translate(261 23.75)" fill="#fff"/>
+  </g>
+</svg>
